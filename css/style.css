@@ -1,0 +1,17 @@
+  *{
+        font-family: Arial;
+    }
+    p {
+        color:blue;
+    }
+    .p1{
+        text-align: center;
+    }
+    #p2{
+        background-color: aqua;
+        font-weight: bold;
+    }
+    footer p {
+        font-size: x-small;
+        color: darkslategrey;
+    }
