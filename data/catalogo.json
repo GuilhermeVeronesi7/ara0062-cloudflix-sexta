@@ -1,6 +1,14 @@
 [
     {
         "imagem": {
+            "src": "https://www.google.com/url?sa=i&url=https%3A%2F%2Flasercinemas.com.br%2Ffilme%2F529%2F&psig=AOvVaw3N5o7TZFY-2crWMbDoMu_c&ust=1761438264740000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwis0-OBi76QAxXKXbgEHW4dBL4QjRx6BAgAEBo",
+            "alt": "Cartaz do filme Fórmula 1"
+        },
+        "titulo": "Fórmula 1",
+        "genero": "Esporte-ação"
+    },
+    {
+        "imagem": {
             "src": "./img/interstellar.webp",
             "alt": "Cartaz do filme Interstellar"
         },
@@ -23,4 +31,5 @@
         "titulo": "Sociedade dos Poetas Mortos",
         "genero": "Drama"
     }
+
 ]
