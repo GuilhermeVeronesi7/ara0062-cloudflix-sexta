@@ -1,7 +1,7 @@
 [
     {
         "imagem": {
-            "src": "https://www.google.com/url?sa=i&url=https%3A%2F%2Flasercinemas.com.br%2Ffilme%2F529%2F&psig=AOvVaw3N5o7TZFY-2crWMbDoMu_c&ust=1761438264740000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwis0-OBi76QAxXKXbgEHW4dBL4QjRx6BAgAEBo",
+            "src": "https://content.lasercinemas.com.br/imgs/capa/web/5a4052aa-bcfa-4b51-914d-e79ed0904063.jpg",
             "alt": "Cartaz do filme Fórmula 1"
         },
         "titulo": "Fórmula 1",
@@ -33,3 +33,4 @@
     }
 
 ]
+
